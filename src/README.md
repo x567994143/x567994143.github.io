@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 森萤之火的博客
-heroImage: ./.vuepress/public/assets/images/avatar.jpg
+heroImage: avatar.jpg
 heroText: 一名鶸的blog
 heroFullScreen: true
 tagline: Cofun
