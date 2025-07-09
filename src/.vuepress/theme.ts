@@ -14,12 +14,18 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/x567994143/x567994143.github.io",
 
   docsDir: "src",
 
   // 导航栏
   navbar,
+
+  navbarLayout: {
+    start: ["Brand"],
+    center: ["Links"],
+    end: ["Repo","Outlook"],
+  },
 
   // 侧边栏
   sidebar,
